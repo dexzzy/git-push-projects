@@ -1,0 +1,121 @@
+	Astra
+Controller
+Support
+Hard
+Utility 50% Crowd Control 50%
+	Breach
+Intiator
+Entry
+Hard
+Utility 25% Crowd Control 50% Damage 25%
+	Brimstone
+Controller
+Support
+Easy
+Utility 75% Damage 25%
+	Chamber
+Sentinel
+Entry
+Hard
+Utility 20% Crowd Control 20% Damage 60%
+	Clove
+Controller
+Entry
+Medium
+Utility 50% Damage 50%
+	Cypher
+Sentinel
+Lurk
+Medium
+Utility 75% Crowd Control 25%
+	Deadlock
+Sentinel
+Support
+Hard
+Utility 30% Crowd Control 60% Damage 10%
+	Fade
+Intiator
+Support
+Hard
+Utility 50% Crowd Control 25% Damage 25%
+	Gekko
+Intiator
+Support
+Medium
+Utility 50% Crowd Control 35% Damage 15%
+	Harbor
+Controller
+Support
+Hard
+Utility 70% Crowd Control 30%
+	Iso
+Duelist
+Entry
+Hard
+Utlity 65% Crowd Control 25% Damage 10%
+	Jett
+Duelist
+Entry
+Medium
+Utility 50% Damage 50%
+	KAY/O
+Intiator
+Entry
+Medium
+Utility 75% Damage 25%
+	Killjoy
+Sentinel
+Support
+Easy
+Utility 50% Crowd Control 25% Damage 25%
+	Neon
+Duelist
+Entry
+Medium
+Utility 40% Crowd Control 30% Damage 30%
+	Omen
+Controller
+Lurk
+Medium
+Utility 75% Crowd Control 25%
+	Phoenix
+Duelist
+Entry
+Easy
+Utility 25% Crowd Control 25% Damage 50%
+	Raze
+Duelist
+Entry
+Easy
+Utility 25% Damage 75%
+	Reyna
+Duelist
+Entry
+Medium
+Utility 75% Crowd Control 25%
+	Sage
+Sentinel
+Support
+Easy
+Utility 50% Crowd Control 50%
+	Skye
+Intiator
+Support
+Medium
+Utility 65% Crowd Control 25% Damage 10%
+	Sova
+Intiator
+Entry
+Hard
+Utility 50% Damage 50%
+	Viper
+Controller
+Support
+Hard
+Utility 75% Damage 25%
+	Yoru
+Duelist
+Entry
+Hard
+Utility 75% Crowd Control 25%
+

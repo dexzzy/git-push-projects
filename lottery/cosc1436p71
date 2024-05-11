@@ -1,0 +1,27 @@
+// Andrew Alvarez
+// Lottery
+
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
+
+using namespace std;
+
+int main()
+{
+	int numbers;
+	cout << " The Lucky Lottery Numbers: " << endl;
+	numbers = 0;
+	
+	srand(time(0));
+	
+	
+	while( numbers < 6 )
+	{
+	cout << rand() % 89 + 1 << endl;
+	numbers++;
+	}
+	
+	
+	return 0;
+}
